@@ -5,7 +5,7 @@
   "homepage": "souarikarim.github.io/cookie",
   "type": "module",
   "scripts": {
-    "dev": "npm start",
+    "start": "npm start",
     "build": "npm build",
     "lint": "eslint src --ext js,jsx --report-unused-disable-directives --max-warnings 0",
     "preview": "vite preview"
